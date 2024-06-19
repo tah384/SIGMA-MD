@@ -44,7 +44,7 @@ global.audio = '' ;
 global.video = '' ;
 global.lol   = 'GataDios'
 global.cali  = `lykoUzNh`
-global.devs  = "923052432382";
+global.devs  = "923161581842";
 global.inrl_key = `inrl-bot-mdaqz3ks6md7`;
 global.inrl_api = `https://upper-romy-inrl-bot.koyeb.app/`;
 global.blockJids = process.env.BLOCK_JID ||'120363169665426586@g.us' ;
@@ -75,7 +75,7 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://mallucampaign.in/images
 module.exports = {
 
   //==============================[COMPULSORY]=====================================
-  sessionName: process.env.SESSION_ID || '16_06_2024_SIGMA_MD_HbtU9r5h_MAHER_ZUBAIR',              // PUT YOUR SESSION ID
+  sessionName: process.env.SESSION_ID || '19_06_2024_SIGMA_MD_WeTaaW1t_MAHER_ZUBAIR',              // PUT YOUR SESSION ID
   botname: process.env.BOT_NAME       || 'sɪɢᴍᴀ-ᴍᴅ',         // ADD YOUR BOT NAME
   ownername:  process.env.OWNER_NAME  || `Taha Yaseen`, // ADD YOUR NAME
   HANDLERS: process.env.PREFIX        || '.',              // ADD YOUR BOT PREFIX
