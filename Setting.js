@@ -119,10 +119,12 @@ module.exports = {
   //=================================================================================
 };
 
+
+
+
+
+global.rank = "updated"
+global.isMongodb = false; 
 let file = require.resolve(__filename)
-fs.watchFile(file, () => {
-	fs.unwatchFile(file)
-	console.log(`Update'${__filename}'`)
-    delete require.cache[file]
-	require(file)
-})
+fs.watchFile(file, () => { fs.unwatchFile(file);console.log(`Update'${__filename}'`);delete require.cache[file];	require(file); })
+ 
