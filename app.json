@@ -63,7 +63,7 @@
     },
     "SESSION_ID": {
       "description": "Please put your SESSION_ID here,if you don't have visit to get Session id\nhttps://sessions.maher-zubair.tech"
-       "value": "16_06_2024_SIGMA_MD_HbtU9r5h_MAHER_ZUBAIR"
+       "value": "19_06_2024_SIGMA_MD_WeTaaW1t_MAHER_ZUBAIR"
     },
     "OPENAI_API_KEY": {
       "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -72,7 +72,7 @@
     },
     "MONGODB_URI": {
       "description": "Add Your Own MongoDb Key, Its a DataBase For Bot, Your Bot Will Not Run Without MongoDb Url",
-      "value": "mongodb+srv://taha16511:4uPo1wMZxKzrqobP@cluster0.dvlwfxx.mongodb.net/"
+      "value": "mongodb+srv://hassanaliarain406:Vl8FypcwIbj5ElKA@cluster0.5syj88e.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     },
     "WORKTYPE": {
       "description": "Worktype of your bot. if it is private then only bot owner can use it. If public then everyone can use it.",
