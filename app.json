@@ -59,11 +59,11 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923161581842"
+      "value": "923103443197"
     },
     "SESSION_ID": {
       "description": "Please put your SESSION_ID here,if you don't have visit to get Session id\nhttps://sessions.maher-zubair.tech"
-       "value": "19_06_2024_SIGMA_MD_WeTaaW1t_MAHER_ZUBAIR"
+       "value": "14_07_2024_SIGMA_MD_bxVYSN8H_MAHER_ZUBAIR"
     },
     "OPENAI_API_KEY": {
       "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
